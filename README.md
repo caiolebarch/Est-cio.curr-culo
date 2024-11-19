@@ -31,7 +31,7 @@
             <section class="resume-section" id="about">
                 <div class="resume-section-content">
                     <h1 class="mb-0">Caio <span class="text-primary">Lebarch</span></h1>
-                    <div class="subheading mb-5">Barcelona, Serra - Espírito Santo/ES · (27) 99201-2263 · <a href="mailto:name@email.com">caiolebarch@outlook.com</a></div>
+                    <div class="subheading mb-5">Barcelona, Serra - Espírito Santo/ES · <a href="(27) 99201-2263" <a href="mailto:name@email.com">caiolebarch@outlook.com</a></div>
                     <p class="lead mb-5">Experiências na área administrativo com gestão de processos organizacionais e financeiro, além de atuar como assistente de transportes na empresa Constance, auxiliando na logística e no gerenciamento de rotas, dados de performance de entregas e SLA. Futuro desenvolvedor em back-end, com interesse em aprimorar habilidades em programação e desenvolvimento de sistemas.</p>
                     <div class="social-icons">
                         <a class="social-icon" href="https://www.linkedin.com/in/caiolebarch/"><i class="fab fa-linkedin-in"></i></a><a class="social-icon" href="https://github.com/caiolebarch"><i class="fab fa-github"></i></a><a class="social-icon" href="#"><i class="fab fa-twitter"></i></a><a class="social-icon" href="#"><i class="fab fa-facebook-f"></i></a>
